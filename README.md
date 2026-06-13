@@ -3,7 +3,7 @@
 Repository ini berisi source code untuk project aplikasi mobile LaperBang. Proyek ini menggunakan arsitektur monorepo yang memisahkan sisi Customer App (Aplikasi Pembeli) dan Seller App (Aplikasi Penjual) ke dalam dua direktori yang berbeda.
 
 📂 Struktur Proyek
-
+```md
 LaperBang/
 ├── LaperBang-01bd6112676ba635e14c1aa750c02a4b7cd37d78/       # Customer App (Aplikasi Pembeli)
 │   ├── android/          # File konfigurasi dan build Android pembeli
@@ -29,7 +29,7 @@ LaperBang/
 │
 ├── .gitignore            # Aturan pengabaian file Git
 └── README.md             # Dokumentasi proyek
-
+```
 🛠️ Prasyarat (Prerequisites)
 
 Sebelum menjalankan proyek ini di komputermu, pastikan kamu sudah menginstal:
